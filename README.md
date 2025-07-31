@@ -1,16 +1,27 @@
-# my_first_app
+# Flutter App - Dark Themed Splash App
 
-A new Flutter project.
+##  Description
 
-## Getting Started
+This app contains:
+- Splash screen with a timer and your name.
+- Dark theme with red accent color.
+- Navigation using ElevatedButton (replaced FloatingActionButton).
+- SnackBar on button press.
+- Screens: Splash, Home, About.
 
-This project is a starting point for a Flutter application.
+##  Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Open project in Flutter-supported editor.
+2. Run `flutter pub get`.
+3. Connect your emulator or device.
+4. Run `flutter run`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Changes Made
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Removed FloatingActionButton.
+- Added ElevatedButton to navigate and show SnackBar.
+- Created a dark theme manually in `MaterialApp`.
+- Organized project into separate screen files.
+
+## 👨‍💻 Developer
+Ashar Minhas
