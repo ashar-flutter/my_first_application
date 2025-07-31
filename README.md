@@ -3,7 +3,7 @@
 ##  Description
 
 This app contains:
-- Splash screen with a timer and your name.
+- Splash screen with a timer and my name.
 - Dark theme with red accent color.
 - Navigation using ElevatedButton (replaced FloatingActionButton).
 - SnackBar on button press.
